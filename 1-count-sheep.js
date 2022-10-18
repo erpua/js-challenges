@@ -1,16 +1,16 @@
-function countSheeps(arrayOfSheep) {
+function countSheep(arrayOfSheep) {
     // TODO May the force be with you
   
-    //Create an object to hold counter value
-    let sheepsAmount = 0;
+    //Create a variable to hold counter value
+    let sheepAmount = 0;
     
     //loop number of sheep in array
     for( let i = 0; i < arrayOfSheep.length; i++) {
-      //if sheeps' value is equal to true => add one
+      //if sheep value is equal to true => add one
       if(arrayOfSheep[i] == true) {
-          sheepsAmount ++;
+          sheepAmount ++;
         }
      }
-      //return amount of sheeps
-      return sheepsAmount;
-  }
+      //return amount of sheep
+      return sheepAmount;
+  };
