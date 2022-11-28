@@ -7,3 +7,7 @@
 
 ---INSTALLATIONS: VsCode:
 - Code Runner
+
+--- DIFFERENT
+- I.e. and e.g. are both Latin abbreviations. E.g. stands for exempli gratia and means “for example.” 
+- I.e. is the abbreviation for id est and means “in other words.”
